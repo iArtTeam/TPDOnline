@@ -1,0 +1,23 @@
+#pageslide {
+    display: none;
+    position: absolute;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    z-index: 999999;
+    
+    /* Largura da Sidebar */
+    width: 260px;
+    padding: 20px;
+    
+    /* Cor da sidebar  */
+    background-image:url("../images/gray.png");
+    no-repeat center top fixed;
+    background-color: #00a4bc;
+    color: #FFF;
+    -webkit-box-shadow: inset 0 0 5px 5px #222;
+    -moz-shadow: inset 0 0 5px 5px #4e4e4e;
+    box-shadow: inset 0 0 5px 5px #4e4e4e;
+
+    
+}

@@ -1,0 +1,151 @@
+
+#tabela{
+ clear: both;
+ margin-left: 0px;
+ width:1024px; 
+}
+#coluna1{
+ float: left;
+ width:40px;
+ padding-right: 10px;
+}
+#coluna2{
+ float: left;
+ width:40px;
+ padding-top: 56px;
+ padding-right: 10px;
+}
+#coluna3{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna4{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna5{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna6{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna7{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna8{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna9{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna10{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna11{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+}
+#coluna12{
+ float: left;
+ width:40px;
+ padding-top: 168px;
+ padding-right: 10px;
+
+}
+#coluna13{
+ float: left;
+ width:40px;
+  padding-top: 56px;
+ padding-right: 10px;
+
+}
+#coluna14{
+ float: left;
+ width:40px;
+  padding-top: 56px;
+ padding-right: 10px;
+
+}
+#coluna15{
+ float: left;
+ width:40px;
+  padding-top: 56px;
+ padding-right: 10px;
+
+}
+#coluna16{
+ float: left;
+ width:40px;
+  padding-top: 56px;
+ padding-right: 10px;
+}
+#coluna17{
+ float: left;
+ width:40px;
+ padding-top: 56px;
+ padding-right: 10px;
+
+}
+#coluna18{
+  float: left;
+  width:40px;
+  padding-right: 10px;
+  
+}
+#coluna19{
+  float: left;
+  width:100%;
+  padding-right: 10px;
+}
+#coluna20{
+  float: left;
+  width:100%;
+  padding-right: 10px;
+}
+.itens{
+  width:40px !important;
+  padding-right: 10px;
+  float: left;
+}
+
+#horizontal{
+  padding-top: 30px;
+  clear: both;
+  width: 900px;
+}
+#legenda{
+ width:900px;  
+}
+#legenda_coluna1{
+  float:left;
+}
+#legenda_coluna2{
+  float:left;
+}
+
+
+/* This button was generated using CSSButtonGenerator.com */
