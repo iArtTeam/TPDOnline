@@ -24,7 +24,6 @@ Dentre os recursos podemos destacar o quadro de informações. Permitindo ainda 
 
 ## Desenvolvimento
 
-
 <table>
 	<tr>
 		<td> IMG </td>
@@ -35,10 +34,13 @@ Dentre os recursos podemos destacar o quadro de informações. Permitindo ainda 
 	<tr>
 		<td>IMG</td>
 		<td>
-			<b>Diego Rodrigues</b> - Técnico em Informática. Voltado para Design, HTML5 e CSS3 <br>
-			
+			<b>Diego Rodrigues</b> - Front End Developer <br>
 		</td>
-
 	</tr>
-
+	<tr>
+		<td>IMG</td>
+		<td>
+			<b>Pedro Polisenso</b> - FullStack Web Developer \,,/<br>
+		</td>
+	</tr>
 </table>
